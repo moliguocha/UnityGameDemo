@@ -1,2 +1,15 @@
 这是我闲暇之余制作的一个游戏demo，基于unity引擎  包含塔防、射击、收集制造
-等要素。有不少Bug 游戏关卡设计方面也不完善，但个人认为玩法设计上还挺有意思的，在此上传一下当做记录。![Player](https://user-images.githubusercontent.com/60095889/116814377-3ef54f80-ab8b-11eb-93e2-adbb4ce593c3.PNG)
+等要素。有不少Bug 游戏关卡设计方面也不完善，但个人认为玩法挺有意思的哈哈，在此上传一下当做记录，希望以后能进一步完善。
+![start](https://user-images.githubusercontent.com/60095889/116838237-4145c100-ac00-11eb-9fc9-da2339f44308.PNG)
+![main](https://user-images.githubusercontent.com/60095889/116838258-4d318300-ac00-11eb-8f6e-48d04a14f0e1.PNG)
+![Player](https://user-images.githubusercontent.com/60095889/116838262-53276400-ac00-11eb-8a4e-60f016f5815f.PNG)
+![boxPNG](https://user-images.githubusercontent.com/60095889/116838273-5ae70880-ac00-11eb-90fd-34c1951739e6.PNG)
+![制造](https://user-images.githubusercontent.com/60095889/116838276-5d496280-ac00-11eb-85fe-41dfcc66712e.PNG)
+![收集物](https://user-images.githubusercontent.com/60095889/116838282-61758000-ac00-11eb-983a-c7d0d2637b78.PNG)
+![炮塔](https://user-images.githubusercontent.com/60095889/116838299-6e926f00-ac00-11eb-959d-5349884bfcc2.PNG)
+![射击视角](https://user-images.githubusercontent.com/60095889/116838302-70f4c900-ac00-11eb-979b-177720e93076.PNG)
+![坩埚](https://user-images.githubusercontent.com/60095889/116838304-75b97d00-ac00-11eb-8823-a2c610072966.PNG)
+![战斗视角](https://user-images.githubusercontent.com/60095889/116838354-ab5e6600-ac00-11eb-8aff-37cc197b46ec.PNG)
+![战斗1](https://user-images.githubusercontent.com/60095889/116838365-b0231a00-ac00-11eb-949d-7d57e0ed4acd.PNG)
+![战斗2](https://user-images.githubusercontent.com/60095889/116838368-b2857400-ac00-11eb-9aea-3e513730ebdd.PNG)
+![战斗3](https://user-images.githubusercontent.com/60095889/116838370-b44f3780-ac00-11eb-9f42-bbdafb00e95b.PNG)
